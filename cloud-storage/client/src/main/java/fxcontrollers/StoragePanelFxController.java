@@ -240,7 +240,7 @@ public class StoragePanelFxController implements Initializable {
 		Alert alert = new Alert(Alert.AlertType.INFORMATION);
 	    alert.setTitle("About");
 	    alert.setHeaderText("Information");
-	    alert.setContentText("MyCloud Store v1.0   2019");
+	    alert.setContentText("MyCloud Store v1.0   2010");
 	    alert.showAndWait();
 	}
 
